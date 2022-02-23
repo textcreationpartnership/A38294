@@ -1,0 +1,330 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Votes of the Honourable, the Commons of England, assembled in the late Parliament at Westminster, in favour of Protestant dissenters.</title>
+            <title>Proceedings. 1680.</title>
+            <author>England and Wales. Parliament. House of Commons.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38294</idno>
+            <idno type="STC">Wing E2762</idno>
+            <idno type="STC">ESTC R213644</idno>
+            <idno type="EEBO-CITATION">99825978</idno>
+            <idno type="PROQUEST">99825978</idno>
+            <idno type="VID">30370</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38294)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30370)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1758:37)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Votes of the Honourable, the Commons of England, assembled in the late Parliament at Westminster, in favour of Protestant dissenters.</title>
+                  <title>Proceedings. 1680.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed for Francis Smith at the Elephant and Castle in Cornhill, near the Royal Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Publication date from Wing.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Protestants --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:30370:1"/>
+            <!-- PDF PAGE 11 -->
+            <head>
+               <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>OTES of the HONOURABLE, the <hi>COMMONS</hi> of <hi>ENGLAND,</hi> Aſſembled in the late PARLIAMENT at <hi>Weſtminſter,</hi> in FAVOUR OF <hi>Proteſtant Diſſenters.</hi>
+            </head>
+            <p>
+               <label>November 6. 1680.</label>
+               <lb/>
+               <hi>REſolved, (Nemine contradicente)</hi> That it is the Opi<g ref="char:EOLhyphen"/>nion of this Houſe, That the Acts of Parliament, made in the Reigns of Queen <hi>Elizabeth,</hi> and King <hi>
+                  <gap reason="illegible: page cropped" extent="5+ letters">
+                     <desc>•••••…</desc>
+                  </gap>s,</hi> againſt Popiſh Recuſants, ought not to be extended <gap reason="illegible: page cropped" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>nſt Proteſtant Diſſenters.</p>
+            <p>
+               <hi>Ditto. Ordered,</hi> That a Committee be appointed to prepare bring in a Bill, for Repeal of all or any part of the Act of <gap reason="illegible: page cropped" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>iament made in the 35th year of the Reign of Q. <hi>Elizabeth.</hi>
+            </p>
+            <p>
+               <label>
+                  <hi>Wedneſday</hi> 24. <hi>ditto.</hi>
+               </label>
+               <hi>
+                  <gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſolved,</hi> That an humble Addreſs be made to his Majeſty <gap reason="illegible: page cropped" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> this Houſe, by ſuch Members thereof, as are of his <gap reason="illegible: page cropped" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>eſties moſt Honourable Privy Councel, to deſire his Ma<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: page cropped" extent="5+ letters">
+                  <desc>•••••…</desc>
+               </gap> to give Order, That all his Proteſtant Diſſenters who Proſecuted upon any Poenal Laws, made againſt Popiſh <gap reason="illegible: page cropped" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap>ſants in the Reign of Queen <hi>Elizabeth</hi> and King <hi>James,</hi> 
+               <gap reason="illegible: page cropped" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be admitted to a Compoſition in the <hi>Exchequer</hi> with<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: page cropped" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aying any Fees.</p>
+            <p>
+               <hi>
+                  <gap reason="illegible: page cropped" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>dered,</hi> That leave be given to bring in a Bill, declaring, <gap reason="illegible: page cropped" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Acts of Parliament, made in the Reign of Queen <hi>
+                  <gap reason="illegible: page cropped" extent="6 letters">
+                     <desc>••••••</desc>
+                  </gap>eth,</hi> and King <hi>James,</hi> againſt Popiſh Recuſants, ſhall not <gap reason="illegible: page cropped" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible: page cropped" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tended againſt Proteſtant Diſſenters.</p>
+            <p>
+               <label>
+                  <hi>Friday</hi> 26. <hi>ditto.</hi>
+               </label>
+               <gap reason="illegible: page cropped" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Secretary <hi>Jenkins</hi> acquaints the Houſe, That his Ma<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: page cropped" extent="5+ letters">
+                  <desc>•••••…</desc>
+               </gap> 
+               <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ad been attended by ſuch Members of this Houſe as are Majeſties moſt Honourable Privy Council, with an Ad<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: page cropped" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap> concerning the Proteſtant Diſſenters, and That his Ma<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: page cropped" extent="7 letters">
+                  <desc>〈7 letters〉</desc>
+               </gap> Anſwer is, That they ſhall be diſcharged, and without <gap reason="illegible: page cropped" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible: page cropped" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s far as may be done according to Law, and that they be recommended to the Judges.</p>
+            <p>
+               <hi>
+                  <gap reason="illegible: page cropped" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>to.</hi> An Ingroſſed Bill the ſame day for the Repeal of an made in the 35th year of the Reign of Queen <hi>Elizabeth</hi> 
+               <gap reason="illegible: page cropped" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ead the third time.</p>
+            <p>
+               <hi>
+                  <gap reason="illegible: page cropped" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſolved,</hi> That the Bill do paſs, and that the Title be, <hi>An <gap reason="illegible: page cropped" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> for the Repeal of a Statute made in the 35<hi rend="sup">th</hi> year of the <gap reason="illegible: page cropped" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of Queen</hi> Elizabeth; and that Sir <hi>Eliab Harvey</hi> do carry <gap reason="illegible: page cropped" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Bill to the Lords for their concurrence.</p>
+            <p>
+               <label>
+                  <hi>Wedneſday</hi> 15<hi rend="sup">th</hi> 
+                  <hi>ditto.</hi>
+               </label>
+               <lb/>
+               <hi>
+                  <gap reason="illegible: page cropped" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Meſſage from the Lords by Sir</hi> John Hoskins <hi>and Sir</hi> 
+               <gap reason="illegible: page cropped" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Adam Dateley.</p>
+            <p>Mr. Speaker, The Lords have Commanded us, to ac<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: page cropped" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>int this Houſe, That they have Agreed to the Bill, ſent <gap reason="illegible: page cropped" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>m this Houſe, Intituled, <hi>An Act for the Repeal of a Sta<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: page cropped" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e made in the 35<hi rend="sup">th</hi> year of the Reign of Queen</hi> Elizabeth; <gap reason="illegible: page cropped" extent="2 letters">
+                  <desc>••</desc>
+               </gap>th ſome amendments, to which they deſire the Concur<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: page cropped" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ce of this Houſe.</p>
+            <p>
+               <hi>
+                  <gap reason="illegible: page cropped" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſolved, Nemine contradicente,</hi> That a Bill be brought in for <gap reason="illegible: page cropped" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſociation of all his Majeſties Proteſtant Subjects, for the <gap reason="illegible: page cropped" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>y of his Majeſties Perſon, the defence of the Proteſtant <gap reason="illegible: page cropped" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>ion, and the preſervation of his Majeſties Proteſtant Sub<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: page cropped" extent="2 letters">
+                  <desc>••</desc>
+               </gap>cts, againſt all Invaſions and Impoſitions whatſoever, and for preventing the Duke of <hi>York</hi> or any Papiſt from ſucceeding <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the Crown.</p>
+            <p>
+               <label>
+                  <hi>Thurſday, Decemb.</hi> 16th.</label>
+               <lb/>
+A Bill for exempting his Majeſties Proteſtant Subjects diſ<g ref="char:EOLhyphen"/>ſenting from the Church of <hi>England,</hi> from the Penalty of cer<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ain Laws, was read the firſt time.</p>
+            <p>
+               <hi>Reſolved,</hi> That the ſaid Bill be Read a Second time on Munday morning next, at Ten of the Clock in a full Houſe.</p>
+            <p>
+               <label>
+                  <hi>Friday, Decemb.</hi> 24.</label>
+               <lb/>
+A Bill for exempting his Majeſties Proteſtant Subjects, diſſenting from the Church of <hi>England,</hi> from the Penalty of certain Laws, was read a ſecond time.</p>
+            <p>
+               <hi>Reſolved,</hi> That the ſaid Bill be Committed upon the debate of the Houſe.</p>
+            <p>
+               <label>
+                  <hi>Monday, Jan.</hi> 10.</label>
+               <lb/>
+               <hi>Reſolved,</hi> That it is the Opinion of this Houſe, That the Proſecution of Proteſtant Diſſenters, upon the Penal Laws, is at this time grievous to the Subject, a weakning of the Proteſtant Intereſt, an Incouragement to Popery, and dangerous to the Peace of the Kingdom.</p>
+            <p>
+               <label>Oxford, <hi>Thurſday,</hi> 24 <hi>March,</hi> 1680.</label>
+               <lb/>
+THE Houſe taking Notice, that a Bill which paſſed both Houſes the laſt Parliament, Entituled, <hi>An Act for the Repeal of a Statute made in the</hi> 35<hi rend="sup">th</hi> 
+               <hi>year of the Reign of Queen Elizabeth,</hi> was not preſented to his Majeſty (as the reſt; of the Bills were) for his Royal Aſſent.</p>
+            <p>
+               <hi>Reſolved,</hi> That this Houſe will to morrow Morning at Ten of the clock take into conſideration, by what means the ſaid Bill miſcarried.</p>
+            <p>
+               <label>
+                  <hi>Friday,</hi> 25 of <hi>March.</hi>
+               </label>
+               <lb/>
+The Houſe then according to their Order took into Con<g ref="char:EOLhyphen"/>ſideration the matter relating to the Bill which paſſed both Houſes the laſt Parliament, Entituled, <hi>An Act for the Repeal of a Statute made in the 35th year of the Reign of Queen</hi> Elizabeth; but was not tendred to his Majeſty for his Royal Aſſent.</p>
+            <p>
+               <hi>The King</hi> hath graciouſly declared his Reſolve for frequent <hi>Parliaments,</hi> knowing with that wiſe King <hi>Solomon;</hi> That in the multitude of Councels there is ſafety; <hi>Plus vident oculi, quàm oculus.</hi> Many Eyes ſee more than one.</p>
+            <p>A <hi>Parliament</hi> is not a concourſe of inſignificant Atoms, that have no Influence, or Effects, but they are rather a <hi>Congrega<g ref="char:EOLhyphen"/>tion or Aſſembly of Gods:</hi> It may be, this made Mr. <hi>Coleman</hi> call them <hi>[The Omnipotent Parliament:]</hi> However, our own Chronicles, calls them a Compound, conſiſting of ſo many <hi>Prin<g ref="char:EOLhyphen"/>cipes Populi, the Princes of the People;</hi> and who ever have been ſo fool-hardy, as daringly to run a counter or contrary motion to ſuch Councels, have upon the long Run, <hi>Run or Rode Neck-breaks</hi> at laſt: This is recorded <hi>as the experience of all fore<g ref="char:EOLhyphen"/>going Ages:</hi> The Parliaments Motto is, <hi>Nemo me impunè la<g ref="char:EOLhyphen"/>ceſſit: None ever eſcaped ſoot-free, that durſt oppoſe and pro<g ref="char:EOLhyphen"/>voke that great Councel; both the many and the mighty have in former times like the fluid Waves of the Sea daſh'd themſelves in pieces upon the Juſtice of Parliamentary Rocks:</hi> And how can theſe of our preſent times expect any better ſucceſs, who act diametrically oppoſite to the ſageſt Sentiments of the two Houſes of Parliament, wherein the Lords and Commons did concurre ſo happily in Repealing the Act of the 35th of Queen <hi>Elizabeth,</hi> (which was only intended againſt Popiſh Recuſants) well conſidering, that The proſecution of thoſe Penal Laws againſt Proteſtant Diſſenters, <hi>at this Juncture of time,</hi> can be no better than a gratifying and promoting the <hi>Popiſh Plot.</hi> The Parliament-Houſe hath this Honourable Inſcription over it:
+<q xml:lang="lat">
+                  <l>Haec Domus odit, amat, punit, conſervat, Honorat</l>
+                  <l>Nequitiam, pacem, crimina, jura, probos.</l>
+               </q>
+               <q>
+                  <l>This Houſe hates Sin, loves Peace, and Vice corrects,</l>
+                  <l>Maintains juſt Laws, and Honeſt men protects.</l>
+               </q>
+            </p>
+            <p>Now theſe preceding Votes, upon mature and deliberate conſideration being Reſolved upon, by the Honourable the <hi>Com<g ref="char:EOLhyphen"/>mons</hi> of <hi>England</hi> aſſembled in the two laſt Parliaments <hi>(Nemine<g ref="char:cmbAbbrStroke">̄</g> contradicente,)</hi> who for Loyalty, Prudence, Wiſdom, Inte<g ref="char:EOLhyphen"/>grity, and Eſtates, were never before parallel'd; may it not concern every Subject, eſpecially Magiſtrates, Juſtices of the Peace, and other his Majeſties inferior Officers, to take a view of, and be well acquainted therewith, ſo as they may not be impoſed upon by any Inſinuation, Promiſe or Pretence what<g ref="char:EOLhyphen"/>ſoever, to do that which may tend to <hi>Weaken the Proteſtant Intereſt</hi> and <hi>Incourage the Popiſh Faction;</hi> conſidering, That whoſoever ſhall Act contrary thereto, do wilfully and plainly Act againſt the expreſs Sence of the <hi>Commons</hi> of <hi>England,</hi> their own and the Nations Repreſentatives, and conſequently can<g ref="char:EOLhyphen"/>not but expect to be accomptable for the ſame.</p>
+            <p>It being one Eſſential part of our Engliſh Government, that there is always a Parliament in <hi>poſſe,</hi> though not in <hi>eſſe.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Francis Smith</hi> at the <hi>Elephant</hi> and <hi>Caſtle</hi> in <hi>Cornhill,</hi> near the <hi>Royal Exchange.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
